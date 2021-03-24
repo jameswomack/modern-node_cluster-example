@@ -1,0 +1,26 @@
+{
+  "name": "modern-node_cluster-example",
+  "private": true,
+  "version": "1.0.0-beta.0",
+  "engines" : { "node" : ">=14" },
+  "description": "A Node 14 'cluster' example w/ modern syntax & terminology",
+  "main": "index.js",
+  "module": "index.mjs",
+  "scripts": {
+    "test": "node index.mjs"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/jameswomack/modern-node_cluster-example.git"
+  },
+  "keywords": [
+    "modern",
+    "cluster"
+  ],
+  "author": "James J. Womack (@james_womack)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jameswomack/modern-node_cluster-example/issues"
+  },
+  "homepage": "https://github.com/jameswomack/modern-node_cluster-example#readme"
+}
